@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "candlestickchart",
-            url: "https://github.com/IXFIecosystem/demo/releases/download/1.0.1/candlestickchart.zip",
-            checksum: "57d39f6c2fa13dd63884ec3ce8206d3309543bb42f53a64559783362deb0fff0"
+            url: "https://github.com/IXFIecosystem/demo/releases/download/1.0.2/candlestickchart.zip",
+            checksum: "f05ab346d1aa5308e53f270415daa872798db7df679f31017e1aefb61c1af61c"
         ),
     ]
 )
